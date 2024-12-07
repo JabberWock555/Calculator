@@ -3,6 +3,8 @@
 Welcome to the **3D Calculator** project! This Unity-powered calculator brings a unique twist to basic arithmetic by offering a 3D interactive interface. Designed with the **BODMAS** (Bracket, Order, Division, Multiplication, Addition, Subtraction) rule at its core, this project combines utility and innovation for an engaging experience.
 
 ---
+![Screenshot 2024-12-07 at 5 23 36 PM](https://github.com/user-attachments/assets/25c5c113-3aa3-4945-9e00-426433f3cfaa)
+---
 
 ## ✨ Features
 
